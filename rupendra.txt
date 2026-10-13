@@ -11,3 +11,10 @@ Enfield
 Bajaj
 Hero
 Java
+
+Maruti
+Mahindra
+Ford
+Mercedej
+MGHector
+Foxvegan
